@@ -1,7 +1,7 @@
 ### My name is Danny, I'm a Web Developer & UI Designer
 
-- 🔭 I’m currently working on a project that dives into every era of **The Weeknd**
+- 🔭 I’m currently working on a **Studio Air** project.
 - 🌱 I’m currently learning ***React + JSX***
 - 💬 Ask me about *anything*
-- 🏖️ Traveling to: **Cannes** & **South of France** all 2025
+- 🏖️ Traveling to: **Tokyo** & **South of France** all 2026
 - 🎒 Portfolio: [lamontbydanny.com](lamontbydanny.com)
